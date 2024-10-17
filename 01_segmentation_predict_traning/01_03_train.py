@@ -12,8 +12,6 @@ import torch.utils.data as data
 import torch, time, datetime, tqdm
 from sklearn.metrics import confusion_matrix
 from segmentation_models_pytorch import create_model
-from segmentation_models_pytorch import Unet
-from segmentation_models_pytorch import DeepLabV3Plus
 from segmentation_models_pytorch import losses
 
 
