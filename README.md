@@ -29,8 +29,18 @@ Install required packages using:
 ```bash
 pip install -r requirements.txt
 ```
-
-
-## Usage
-Copyright@Qian's Lab 2024
+## Citation
+If you find our code or data useful in your research, please cite our paper:
+```
+@misc{yuan2024deepgenerativemodelsassistedautomated,
+      title={Deep Generative Models-Assisted Automated Labeling for Electron Microscopy Images Segmentation}, 
+      author={Wenhao Yuan and Bingqing Yao and Shengdong Tan and Fengqi You and Qian He},
+      year={2024},
+      eprint={2407.19544},
+      archivePrefix={arXiv},
+      primaryClass={cond-mat.mtrl-sci},
+      url={https://arxiv.org/abs/2407.19544}, 
+}
+```
+Copyright @ Qian's Lab 2024
 
