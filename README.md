@@ -20,8 +20,8 @@ This repository contains scripts for nanoparticle image segmentation, mask gener
 
 1. **Train and predict segmentation models**: Located in the `01_segmentation_predict_training` folder.
 2. **Generate and analyze synthetic masks**: Available in `02_mask_generation`.
-3. **Generate and evaluate images**: Use the scripts in `03_image_generate` to train, generate, and evaluate image quality.
-4. **Analyze DM4 microscopy data**: Use the tools in `04_in_situ_analysis` for in-depth analysis of electron microscopy images.
+3. **Generate and evaluate images**: Use the scripts in `03_image_generate` to train, generate, and assess image quality.
+4. **Analyze DM4 microscopy data**: Use the tools in `04_in_situ_analysis` to analyze HAADF-STEM images of supported nanoparticles in real time.
 
 ## Installation
 
