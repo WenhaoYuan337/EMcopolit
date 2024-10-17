@@ -4,7 +4,7 @@ from skimage import io, measure
 from scipy.stats import variation
 
 # Folder containing the mask images
-mask_folder = 'F:/Seg/EMcopolit/label'
+mask_folder = '/label'
 
 
 # Function to process each image and extract parameters
