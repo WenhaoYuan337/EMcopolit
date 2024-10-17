@@ -42,5 +42,5 @@ If you find our code or data useful in your research, please cite our paper:
       url={https://arxiv.org/abs/2407.19544}, 
 }
 ```
-Copyright @ Qian's Lab 2024
+Copyright | 2024 Qian's Lab@NUS 
 
